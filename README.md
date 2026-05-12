@@ -1,10 +1,13 @@
 Financial Analytics Dashboard
+
 Project Description
+
 The Financial Analytics Dashboard is an interactive business intelligence dashboard designed to analyze and monitor key financial and banking metrics in a simple and visually appealing way.
 It provides insights into customers, transactions, accounts, loans, balances, KYC verification status, and branch-wise financial performance.
 The dashboard helps banking institutions and financial organizations make data-driven decisions by presenting important KPIs and distributions through charts, graphs, and filters.
 
-Dashboard Overview
+Dashboard Overview:
+
 The dashboard includes:
 
 
